@@ -1,16 +1,20 @@
-### Hi there 👋
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/469419605895544832?hideDiscrim=true)](https://discord.com/users/469419605895544832)
 
-<!--
-**Ancienttt/Ancienttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Ben Kimim</h2>
 
-Here are some ideas to get you started:
+```js
+class Papaz {
+    constructor(options) {
+        this.name = "Hasan",
+        this.sex = "man",
+        this.length = "185",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "80",
+        this.age = "21",
+        this.discord.tag = "ancient0092"
+    };
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+module.exports = Papaz
+```
