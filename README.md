@@ -3,7 +3,7 @@
 <h2>Ben Kimim</h2>
 
 ```js
-class Papaz {
+class ancient {
     constructor(options) {
         this.name = "Hasan",
         this.sex = "man",
@@ -16,5 +16,5 @@ class Papaz {
     };
 }
 
-module.exports = Papaz
+module.exports = ancient
 ```
