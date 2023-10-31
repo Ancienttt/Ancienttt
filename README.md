@@ -12,7 +12,7 @@ class ancient {
         this.job = "developer",
         this.weight = "80",
         this.age = "21",
-        this.discord.tag = "ancient0092"
+        this.discord.tag = "ancientchavo"
     };
 }
 
