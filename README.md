@@ -1,5 +1,5 @@
 <h2 align="center">
- <a href="https://discord.com/users/469419605895544832"><img  width="400px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"></a>
+ <a href="https://discord.com/users/469419605895544832"><img  width="400px" src="https://lanyard.kyrie25.me/api/469419605895544832?decoration=true&hideBadges=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Developing.."></a>
 <br> </br>
  </h2>
 <p align="center">
