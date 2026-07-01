@@ -60,15 +60,15 @@
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <!-- GitHub kullanıcı adın "ancientcim" değilse aşağıdaki "username=ancientcim" kısımlarını kendi kullanıcı adınla değiştirebilirsin -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ancientcim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ancientcim&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
+  <!-- AŞAĞIDAKİ "KENDI_GITHUB_KULLANICI_ADINIZI_YAZIN" KISIMLARINI KENDİ KULLANICI ADINIZLA DEĞİŞTİRİN -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KENDI_GITHUB_KULLANICI_ADINIZI_YAZIN&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KENDI_GITHUB_KULLANICI_ADINIZI_YAZIN&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancientcim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KENDI_GITHUB_KULLANICI_ADINIZI_YAZIN&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
 ---
