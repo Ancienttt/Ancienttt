@@ -16,7 +16,7 @@ class ancient {
         this.type = "human",
         this.job = "developer",
         this.weight = "80",
-        this.age = "21",
+        this.age = "23",
         this.discord.tag = "ancientcim"
     };
 }
