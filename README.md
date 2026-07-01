@@ -68,10 +68,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KENDI_GITHUB_KULLANICI_ADINIZI_YAZIN&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ancienttt&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
 ---
 <div align="center">
-  <i>"Code is poetry."</i>
-</div>
+  
