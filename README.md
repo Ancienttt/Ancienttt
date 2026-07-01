@@ -61,8 +61,8 @@
 
 <div align="center">
   <!-- AŞAĞIDAKİ "KENDI_GITHUB_KULLANICI_ADINIZI_YAZIN" KISIMLARINI KENDİ KULLANICI ADINIZLA DEĞİŞTİRİN -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KENDI_GITHUB_KULLANICI_ADINIZI_YAZIN&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KENDI_GITHUB_KULLANICI_ADINIZI_YAZIN&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ancienttt&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ancienttt&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
 </div>
 
 <br/>
